@@ -2,6 +2,22 @@
 This is a repository for Adafruit Sensors and OLED screens and Lora Radios. 
 I am using these codes to learn electronics and will be happy to share with anyone who is keen to learn too. 
 Most of the codes have been variations from Adafruit or Sparkfun tutorials. 
+I use Arduino IDE 2.0.3
+
+# LIBRAIRIES
+
+<RadioLib.h>
+<SPI.h>
+<Wire.h>
+<Adafruit_GFX.h>
+<Adafruit_SH110X.h>
+<Adafruit_SGP40.h>
+<Adafruit_AHTX0.h>
+<Adafruit_LTR390.h>
+<Adafruit_Sensor.h>
+<Adafruit_BMP3XX.h>
+<Adafruit_MAX1704X.h>
+<Adafruit_BME680.h>
 
 # HARDWARE 
 Adafruit Feather M0 RFM96 LoRa Radio - 433MHz https://www.adafruit.com/product/3179
