@@ -79,7 +79,7 @@ void loop() {
   display.setTextSize(1);
   
   display.setCursor(0,0);
-  display.print("* Sun Check for MILA"); 
+  display.print("* Sun Check "); 
 
   display.drawLine(15,10,110,10,1); 
   
